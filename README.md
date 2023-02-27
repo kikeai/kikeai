@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Who I am? 😎
+🔭 Who I am? 😎<br/>
 ➡I am a proactive 20-year-old who wants to learn new things, optimistic and realistic. I am passionate about everything that has to do with technology and design, since I was 17 I have been working freelance as a Graphic Designer for local and international companies and brands.
 
 These years in the freelance market have allowed me to acquire skills such as calm in stressful situations, adaptability to different clients and quick problem solving.
