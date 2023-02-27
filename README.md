@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal portfolio<br>👯 I’m looking to collaborate on projects frontend<br>🌱 I’m currently learning TypeScript and MongoDB<br>⚡ I’m a graphic designer but I don't know how to draw🤣
+🔭 Who I am? 😎
+➡I am a proactive 20-year-old who wants to learn new things, optimistic and realistic. I am passionate about everything that has to do with technology and design, since I was 17 I have been working freelance as a Graphic Designer for local and international companies and brands.
+
+These years in the freelance market have allowed me to acquire skills such as calm in stressful situations, adaptability to different clients and quick problem solving.
+
+I decided to take my professional path along the path of web development because it is a field that fits well with my passions, which, as I said, are technology and design, as well as providing that great challenge that means always being in constant learning and evolution, since the tech world never stops and there are always new things to learn and implement
 
 
 ## 🌐 Socials:
