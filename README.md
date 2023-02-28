@@ -1,10 +1,13 @@
 # 💫 About Me:
-🔭 Who I am? 😎<br/>
-➡I am a proactive 20-year-old who wants to learn new things, optimistic and realistic. I am passionate about everything that has to do with technology and design, since I was 17 I have been working freelance as a Graphic Designer for local and international companies and brands.
+Hola, Bienvenido a mi perfil👋<br/>
+Soy Luis García, pero mis amigos me dicen Kike Soy Full Stack Developer y Diseñador Gráfico, me gustan los proyectos que me hagan salir de mi zona de confort y que signifiquen un reto.
 
-These years in the freelance market have allowed me to acquire skills such as calm in stressful situations, adaptability to different clients and quick problem solving.
+¿Quién soy? 😎<br/>
+➡Soy un joven de 20 años proactivo con ganas de aprender cosas nuevas, optimista y realista. Soy apasionado por todo lo que tenga que ver con la tecnología y diseño, desde los 17 he estado trabajando de manera freelance como Diseñador gráfico para empresas y marcas locales e internacionales.
 
-I decided to take my professional path along the path of web development because it is a field that fits well with my passions, which, as I said, are technology and design, as well as providing that great challenge that means always being in constant learning and evolution, since the tech world never stops and there are always new things to learn and implement
+Estos años en el mercado freelance me ha permitido adquirir habilidades como la calma en situaciones de estrés, la adaptabilidad a los diferentes clientes y la resolución rápida de problemas.
+
+Decidí llevar mi camino profesional por el camino del desarrollo web porque es un ámbito que encaja bien con mis pasiones que como dije son la tecnología y el diseño además que aporta ese gran reto que significa estar siempre en constante aprendizaje y evolución ya que el mundo tech nunca se detiene y siempre hay cosas nuevas para aprender e implementar
 
 
 ## 🌐 Socials:
