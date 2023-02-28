@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mí:
 Hola, Bienvenido a mi perfil👋<br/>
 Soy Luis García, pero mis amigos me dicen Kike Soy Full Stack Developer y Diseñador Gráfico, me gustan los proyectos que me hagan salir de mi zona de confort y que signifiquen un reto.
 
@@ -10,7 +10,7 @@ Estos años en el mercado freelance me ha permitido adquirir habilidades como la
 Decidí llevar mi camino profesional por el camino del desarrollo web porque es un ámbito que encaja bien con mis pasiones que como dije son la tecnología y el diseño además que aporta ese gran reto que significa estar siempre en constante aprendizaje y evolución ya que el mundo tech nunca se detiene y siempre hay cosas nuevas para aprender e implementar
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kikeai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kike.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kikeai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thepinkbeer) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kikeai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KIKEill) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kikeaii) 
 
 # 💻 Tech Stack:
